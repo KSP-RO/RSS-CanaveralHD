@@ -9,7 +9,7 @@ NOTE: there is some terrain "under" the hi-detail static mesh of the Cape, but n
 Also, be careful about not placing your craft under the floor in the VAB, otherwise you may be treated as "splashed" on vessel load.
 
 
-License remains GPLv3 as of Katniss's Cape Canaveral.
+License CC-BY-NC-SA-4.0 for all additional work added by KSP-RO team.
 
 KatnissCapeCanaveral: https://github.com/Katniss218/KatnisssCapeCanaveral
 RSS Hi Def Cape: https://github.com/AnticlockwisePropeller/RSSHiDefCape
