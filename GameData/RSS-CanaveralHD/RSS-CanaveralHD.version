@@ -1,0 +1,32 @@
+{
+  "NAME"     : "RSS-CanaveralHD",
+  "DOWNLOAD" : "https://github.com/KSP-RO/RSS-CanaveralHD/releases",
+  "URL"      : "https://raw.githubusercontent.com/KSP-RO/RSS-CanaveralHD/master/GameData/RSS-CanaveralHD/RSS-CanaveralHD.version",
+  "GITHUB" : {
+    "USERNAME"   : "KSP-RO",
+    "REPOSITORY" : "RSS-CanaveralHD"
+  },
+  "VERSION" : {
+    "MAJOR" : 1,
+    "MINOR" : 0,
+    "PATCH" : 0,
+    "BUILD" : 0
+  },
+  "KSP_VERSION" : {
+    "MAJOR" : 1,
+    "MINOR" : 8,
+    "PATCH" : 1
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99,
+    "BUILD": 0
+  }
+}
